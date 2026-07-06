@@ -70,3 +70,26 @@ monitoring and verification.
 Since the project activity generates electricity through wind and solar energy, a clean renewable energy source it
 will not cause any negative impact on the environment and thereby contributes to climate change mitigation
 efforts.
+_________
+Coordinates of the project are given in the following table.
+
+Sr. No. WTG ID Latitude Longitude District
+_______
+1 JJPGJ177 22.0057770 69.9633410 Jamnagar
+______
+2 NMT240 22.349139 70.308083 Jamnagar
+________
+3 NMT-307 22.281275 70.17618 Jamnagar
+________
+4 NMT-414 22.262957 70.170712 Jamnagar
+_________
+5 PALMTP25 21.315829 71.751688 Bhavnagar
+______
+6 JMD284 23.327667 68.714750 Kutch
+______
+7 JMA 189 23.387778 68.776667 Kutch
+_______
+Sr. No. Solar ID Latitude Longitude District
+___
+1 GMSPVINDGEDA2 422021-237 21.909489 72.957203 Bharuch
+____________
